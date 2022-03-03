@@ -1,0 +1,64 @@
+
+
+nav .nav-link {
+  color: rgb(0, 0, 0);
+}
+
+.flex-box {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+body {
+  background-color: white;
+  font-family: "Poppins", sans-serif;
+}
+
+body .skill {
+  height: 100px;
+}
+
+body .icon {
+  font-size: 40px;
+  color: orangered;
+}
+
+body .css {
+  color: #ee3232f8;
+}
+
+body .js {
+  color: #fff176;
+}
+
+.skill-single {
+  border-radius: 6px;
+}
+
+.banner {
+  width: 100%;
+  height: 80vh !important;
+}
+/* <<<<<<<<<<skills>>>>>>>>>>>>>>> */
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #ffffff;
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+}
+/* <<<<<<<<<<skills end>>>>>>>>>>>>>>> */
+
+
+.footer {
+  background-color: black;
+}
+
+/*# sourceMappingURL=style.css.map */
